@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pritam kumar das</h1>
-<h3 align="center">||frontend developer || data analytics || ui & ux</h3>
+<h3 align="center">|| frontend developer || data analytics || ui & ux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarpritam143&label=Profile%20views&color=0e75b6&style=flat" alt="kumarpritam143" /> </p>
 
